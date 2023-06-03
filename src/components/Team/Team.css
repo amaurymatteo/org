@@ -1,0 +1,30 @@
+.team {
+    /* background-color: #D9F7E9; */
+    padding: 2rem;
+    text-align: center;
+    position: relative;
+}
+
+.input-color2 {
+    position: absolute;
+    top:20px;
+    right: 50px;
+}
+
+.team h3{
+    font-family: 'Prata';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #212121;
+    padding-bottom: 24px;
+    border-bottom: 4px solid #57C278;
+    display: inline-block;
+}
+
+.colaboradores{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
